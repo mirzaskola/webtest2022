@@ -1,3 +1,3 @@
-Web programming project for Intro To Web IBU
+test 2022
 Mirza Kurtovic
 
